@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gvarshith/TextUtils/static/css/main.ecdd0848.css",
+    "main.js": "/Gvarshith/TextUtils/static/js/main.524a460b.js",
+    "index.html": "/Gvarshith/TextUtils/index.html",
+    "main.ecdd0848.css.map": "/Gvarshith/TextUtils/static/css/main.ecdd0848.css.map",
+    "main.524a460b.js.map": "/Gvarshith/TextUtils/static/js/main.524a460b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecdd0848.css",
+    "static/js/main.524a460b.js"
+  ]
+}

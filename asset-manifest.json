@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gvarshith/TextUtils/static/css/main.ecdd0848.css",
-    "main.js": "/Gvarshith/TextUtils/static/js/main.524a460b.js",
-    "index.html": "/Gvarshith/TextUtils/index.html",
-    "main.ecdd0848.css.map": "/Gvarshith/TextUtils/static/css/main.ecdd0848.css.map",
-    "main.524a460b.js.map": "/Gvarshith/TextUtils/static/js/main.524a460b.js.map"
+    "main.css": "/gvarshith/TextUtils/static/css/main.ecdd0848.css",
+    "main.js": "/gvarshith/TextUtils/static/js/main.524a460b.js",
+    "index.html": "/gvarshith/TextUtils/index.html",
+    "main.ecdd0848.css.map": "/gvarshith/TextUtils/static/css/main.ecdd0848.css.map",
+    "main.524a460b.js.map": "/gvarshith/TextUtils/static/js/main.524a460b.js.map"
   },
   "entrypoints": [
     "static/css/main.ecdd0848.css",
